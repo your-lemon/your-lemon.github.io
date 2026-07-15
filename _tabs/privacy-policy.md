@@ -1,60 +1,62 @@
 ---
-title: 개인정보처리방침
+title: Privacy Policy
 icon: fas fa-shield-alt
 order: 5
 ---
 
-**최종 수정일: 2026년 7월 14일**
+**Last updated: July 14, 2026**
 
-본 블로그(이하 "본 사이트")는 방문자의 개인정보를 소중히 여기며, 아래와 같은 방침에 따라 정보를 처리합니다.
+This blog (the "Site") respects your privacy. This Privacy Policy explains how we collect, use, and protect information when you visit the Site.
 
-## 1. 광고 서비스 및 쿠키 사용
+## 1. Advertising and Cookies
 
-본 사이트는 **Google AdSense**를 통해 광고를 게재하고 있습니다. Google을 포함한 제3자 공급업체는 쿠키(Cookie)를 사용하여 이용자가 본 사이트 또는 다른 사이트를 방문한 기록을 기반으로 광고를 게재할 수 있습니다.
+This Site uses **Google AdSense** to display advertisements. Google and its partners may use cookies to serve ads based on your prior visits to this Site or other sites on the Internet.
 
-- Google은 광고 쿠키를 사용하여 이용자가 본 사이트 및/또는 인터넷상의 다른 사이트를 방문한 이력을 바탕으로 광고를 게재합니다.
-- 이용자는 [Google 광고 설정 페이지](https://adssettings.google.com/)를 방문하여 맞춤 광고를 위한 쿠키 사용을 거부할 수 있습니다.
-- 맞춤 광고에 사용되는 제3자 쿠키를 거부하려면 [www.aboutads.info](https://www.aboutads.info/choices/)를 방문하세요.
+- Google uses advertising cookies to serve ads based on a user's prior visits to this website or other websites.
+- Users may opt out of personalized advertising by visiting [Google Ads Settings](https://adssettings.google.com/).
+- Users may also opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](https://www.aboutads.info/choices/).
 
-## 2. 수집하는 정보
+## 2. Information We Collect
 
-본 사이트는 다음과 같은 정보를 자동으로 수집할 수 있습니다:
-- 방문 페이지, 방문 일시, 체류 시간 등 이용 로그
-- IP 주소, 브라우저 종류, 기기 정보 (통계 및 광고 목적)
-- 쿠키를 통해 수집되는 비식별 정보
+The Site may automatically collect the following information:
+- Pages visited, timestamps, and time spent on the Site
+- IP address, browser type, and device information (for analytics and advertising purposes)
+- Non-personally-identifiable information collected via cookies
 
-본 사이트는 이름, 이메일 주소 등 개인을 식별할 수 있는 정보를 **별도로 요구하거나 저장하지 않습니다** (댓글 기능 등을 사용하는 경우 해당 서비스의 별도 정책이 적용됩니다).
+This Site does **not** directly request or store personally identifiable information such as your name or email address (unless you use a comment feature, which may be governed by a separate third-party policy).
 
-## 3. 제3자 서비스
+## 3. Third-Party Services
 
-본 사이트는 다음과 같은 제3자 서비스를 이용하고 있으며, 각 서비스는 자체적인 개인정보처리방침을 따릅니다:
+This Site uses the following third-party services, each governed by its own privacy policy:
 
-| 서비스 | 목적 | 정책 링크 |
+| Service | Purpose | Policy Link |
 |---|---|---|
-| Google AdSense | 광고 게재 | [Google 개인정보처리방침](https://policies.google.com/privacy) |
-| Google Analytics (사용 시) | 방문자 통계 분석 | [Google 개인정보처리방침](https://policies.google.com/privacy) |
+| Google AdSense | Ad serving | [Google Privacy Policy](https://policies.google.com/privacy) |
+| Google Analytics (if enabled) | Visitor analytics | [Google Privacy Policy](https://policies.google.com/privacy) |
 
-## 4. 이용자의 권리
+## 4. Your Rights
 
-- 이용자는 브라우저 설정을 통해 쿠키 저장을 거부하거나 삭제할 수 있습니다.
-- 다만 쿠키 저장을 거부할 경우 일부 서비스 이용에 제한이 있을 수 있습니다.
-- EU 거주자의 경우 GDPR에 따라 개인 데이터에 대한 열람, 정정, 삭제를 요청할 권리가 있습니다.
+- You may disable or delete cookies through your browser settings at any time.
+- Disabling cookies may limit some functionality of the Site.
+- If you are located in the European Economic Area (EEA), you have rights under the **GDPR**, including the right to access, correct, or delete your personal data.
+- If you are a California resident, you may have additional rights under the **CCPA**, including the right to know what personal information is collected and to opt out of its sale.
 
-## 5. 아동의 개인정보 보호
+## 5. Children's Privacy
 
-본 사이트는 만 14세 미만 아동을 대상으로 하지 않으며, 이러한 아동으로부터 고의로 개인정보를 수집하지 않습니다.
+This Site is not directed at children under the age of 13 (or 16 in the EEA), and we do not knowingly collect personal information from children.
 
-## 6. 방침 변경
+## 6. Changes to This Policy
 
-본 개인정보처리방침은 관련 법령 및 정책 변경에 따라 수정될 수 있으며, 변경 시 본 페이지를 통해 공지합니다.
+This Privacy Policy may be updated from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. Any updates will be posted on this page.
 
-## 7. 문의
+## 7. Contact Us
 
-본 방침에 대해 문의사항이 있으신 경우 아래 연락처로 문의해 주세요.
+If you have any questions about this Privacy Policy, please contact us at:
 
-- 이메일: https://docs.google.com/forms/d/e/1FAIpQLSfhXpP7rpan3xSDruGH8n5IsIxvFUDM-UEWozVcIeE-TVpRPQ/viewform?usp=sharing&ouid=103085420367643581955
+- Email: https://docs.google.com/forms/d/e/1FAIpQLSfhXpP7rpan3xSDruGH8n5IsIxvFUDM-UEWozVcIeE-TVpRPQ/viewform?usp=sharing&ouid=103085420367643581955
+
 
 ---
 
-> 이 문서는 일반적인 개인정보처리방침 템플릿이며, 법률 자문을 대체하지 않습니다. 특수한 법적 요구사항이 있는 경우 전문가와 상담하시기 바랍니다.
+> This document is a general privacy policy template and does not constitute legal advice. Please consult a legal professional if your site has specific regulatory requirements.
 {: .prompt-warning }
