@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/lop0872_Stock_market_or_forex_trading_graph_in_futuristic_conce_2ef05761-d87d-4188-9d3c-e0e9be1b4fb5.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
